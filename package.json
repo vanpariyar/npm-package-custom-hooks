@@ -1,0 +1,26 @@
+{
+  "name": "@vanpariyar/hooks",
+  "version": "1.0.0",
+  "description": "This is the custom react and wordpress gutenberg hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanpariyar/npm-package-custom-hooks.git"
+  },
+  "keywords": [
+    "hooks"
+  ],
+  "author": "vanpariyar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanpariyar/npm-package-custom-hooks/issues"
+  },
+  "homepage": "https://github.com/vanpariyar/npm-package-custom-hooks#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
